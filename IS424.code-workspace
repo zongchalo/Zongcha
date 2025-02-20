@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"name": "git_intro",
+		"path": "../LECTURES/git_intro"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "IS424"
+  }
+}
